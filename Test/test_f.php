@@ -1,6 +1,6 @@
 <?php
 
-class HelloWorldTest extends PHPUnit_Framework_TestCase
+class test_f extends PHPUnit_Framework_TestCase
 {
 	public function test_it{
 		$tst = new try_1();
