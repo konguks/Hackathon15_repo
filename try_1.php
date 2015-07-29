@@ -1,6 +1,6 @@
 <?php
 
-class test
+class try_1
 {
 	public function test_fn($num1,$num2){
 		$tot=$num1+$num2;
