@@ -22,7 +22,7 @@ php:
 
 # optionally specify a list of environments, for example to test different RDBMS
 env:
-#  - DB=mysql
+  - DB=mysql
 #  - DB=pgsql
 
 # optionally set up exclutions and allowed failures in the matrix
@@ -47,4 +47,4 @@ phpunit --configuration ut.xml --coverage-text
 
 # configure notifications (email, IRC, campfire etc)
 notifications:
-#  irc: "irc.freenode.org#yourfavouriteroomfortravis"
+  irc: "irc.freenode.org#yourfavouriteroomfortravis"
