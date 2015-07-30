@@ -1,36 +1,17 @@
-
-
-Karthick K S
-Test OAuth
-Primary tabs
-Details 
-Settings 
-Keys and Access Tokens(active tab)  
-Permissions 
 Application Settings
 Keep the "Consumer Secret" a secret. This key should never be human-readable in your application.
-Consumer Key (API Key)
-zrSHDcHAS8mm6RofzbG1qemZI
-Consumer Secret (API Secret)
-tsKT2Y3XYnCzf0SEhb7wANyDXrJVsDnmZtgSRWXcmJTUdGk91b
-Access Level
-Read and write (modify app permissions)
-Owner
-konguskarthick
-Owner ID
-714419437
+Consumer Key (API Key)	tEOWFrYWgs4ml0PzJtKSsYUrj
+Consumer Secret (API Secret)	o58Tp63xUnNkIJUIr9o96O47kwhvNq1amRciv5F5MtdTLPwX1z
+Access Level	Read, write, and direct messages (modify app permissions)
+Owner	konguskarthick
+Owner ID	714419437
 Application Actions
 Regenerate Consumer Key and SecretChange App Permissions
 Your Access Token
-This access token can be used to make API requests on your own account's behalf. Do not share your access token secret with anyone. 
-Access Token
-714419437-9fXtejidHn8AzlggLet8AFkDjjJ1mVoYuYDUa9WQ
-Access Token Secret
-LEcNKVMsJkgKs2z7WenI7mAKPrsFqIEpX4yEQBBXJbnmK
-Access Level
-Read and write
-Owner
-konguskarthick
-Owner ID
-714419437
+This access token can be used to make API requests on your own account's behalf. Do not share your access token secret with anyone.
+Access Token	714419437-qTbbCQGAq3fx3Hn6RDpv7MZ6CA78BLwDxWlMAY7O
+Access Token Secret	bX6sQfSD9MNKez83VAjKWOq7bxWc8DVxsOmTgTOjXuxwi
+Access Level	Read, write, and direct messages
+Owner	konguskarthick
+Owner ID	714419437
 Token Actions
